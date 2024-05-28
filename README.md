@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/forward-price-calculator.git
+git@github.com:shubh123a3/forward_price_calcluator.git
 Navigate to the project directory:
 
 bash
@@ -57,5 +57,5 @@ Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the shubh License - see the LICENSE file for details.
 
